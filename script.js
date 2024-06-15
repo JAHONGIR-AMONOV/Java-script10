@@ -19,5 +19,5 @@ let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 let even = numbers.filter(number => number % 2 === 0);
 let odd = numbers.filter(number => number % 2 !== 0);
 
-console.log("Even", even);
-console.log("Odd", odd);
+console.log("even", even);
+console.log("odd", odd);
