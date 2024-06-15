@@ -20,4 +20,5 @@ let even = numbers.filter(number => number % 2 === 0);
 let odd = numbers.filter(number => number % 2 !== 0);
 
 console.log("even", even);
+
 console.log("odd", odd);
